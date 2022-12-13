@@ -1,0 +1,4 @@
+# Project exclude paths
+.idea
+out
+JavaBasics17.iml
