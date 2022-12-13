@@ -1,7 +1,6 @@
 package egorka.pomidorka.provider;
 
 import egorka.pomidorka.abstractfactory.MyAbstractFactory;
-import egorka.pomidorka.factory.ColorFactory;
 import egorka.pomidorka.factory.PlayableFactory;
 import egorka.pomidorka.factory.ThinkableFactory;
 
